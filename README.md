@@ -1,3 +1,4 @@
+Project Part 1: Product Grid Display
 # QuickCart
 
 QuickCart is a lightweight shopping cart application built using React and Vite.
